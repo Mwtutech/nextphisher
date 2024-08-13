@@ -33,7 +33,7 @@
 
 ## Single Command :
 ```
-apt update ; apt install git -y ; git clone git://github.com/mwtutech/nextphisher.git ; cd nextphisher ; bash setup ; bash nexphisher
+apt update ; apt install git -y ; git clone https//://github.com/mwtutech/nextphisher.git ; cd nextphisher ; bash setup ; bash nextphisher
 ```
 <br>
 <p align="center">
