@@ -20,16 +20,16 @@
 <a href="#"><img title="Language" src="https://badges.frapsoft.com/bash/v1/bash.png?v=103"></a>
 <a href="https://github.com/mwtutech/followers"><img title="Followers" src="https://img.shields.io/github/followers/mwtutech?color=blue&style=flat-square"></a>
 <a href="https://github.com/mwtutech/nexphisher/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mwtutech/nexphisher?color=red&style=flat-square"></a>
-<a href="https://github.com/mwtutech/nexphisher/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mwtutech/nexphisher?color=red&style=flat-square"></a>
-<a href="https://github.com/mwtutech/nexphisher/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mwtutech/nexphisher?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/mwtutech/nextphisher/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mwtutech/nexphisher?color=red&style=flat-square"></a>
+<a href="https://github.com/mwtutech/nextphisher/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mwtutech/nexphisher?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## Installation :
 
 * `apt update`
 * `apt install git -y`
-* `git clone https://github.com/mwtutech/nexphisher.git`
-* `cd nexphisher`
+* `git clone https://github.com/mwtutech/nextphisher.git`
+* `cd nextphisher`
 #### > SETUP : `bash setup`
 #### > SETUP [TERMUX] : `bash tmux_setup`
 #### > Run : `bash nexphisher`
