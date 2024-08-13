@@ -1,3 +1,6 @@
+![Screenshot_20240813_155906_Termux](https://github.com/user-attachments/assets/babd7746-1db9-45f3-a217-346e9fad9944)
+
+
 ## ***Project not maintained anymore. Use [ZPhisher](https://github.com/mwtutech/zphisher)***
 #
 #
@@ -33,7 +36,7 @@
 
 ## Single Command :
 ```
-apt update ; apt install git -y ; git clone https//://github.com/mwtutech/nextphisher.git ; cd nextphisher ; bash setup ; bash nextphisher
+apt update ; apt install git -y ; git clone https//://github.com/mwtutech/nextphisher.git ; cd nextphisher ; bash setup ; bash nexphisher
 ```
 <br>
 <p align="center">
